@@ -1,22 +1,29 @@
 # Práctica 1 - Alejandra Botín
 
+# Primera Parte
+
+## Introducción
+
 En esta práctica hemos trabajado con Git y GitHub para gestionar un repositorio de código y entender los conceptos básicos de control de versiones. Comenzamos haciendo un fork de un repositorio en GitHub para crear una copia en nuestra cuenta, y luego lo clonamos en nuestro entorno local utilizando GitHub Codespaces. Desde allí, editamos archivos como el README.md, utilizando comandos fundamentales de Git como git clone, git status, git add, git commit, git push y git checkout. 
 
 A continuación, se muestra el uso de estos comandos y se comenta que hace cada uno en cada caso:
 
-## Git Clone
+### Git Clone
+
+Imagen git clone
 
 
 
-## Git Status
 
-## Git Add
+### Git Status
 
-## Git Commit
+### Git Add
 
-## Git Push
+### Git Commit
 
-## Git Checkout
+### Git Push
+
+### Git Checkout
 
 ```
 git clone https://github.com/gitt-3-pat/p1
