@@ -12,7 +12,7 @@ A continuación, se muestra el uso de estos comandos y qué hace cada uno en cad
 
 ### Git Clone
 
-![Git Clone](images/git-clone.png)
+![Git Clone](images/git clone.png)
 
 - El comando descarga una copia completa del repositorio remoto `p1-fork` desde GitHub al entorno de trabajo (en este caso, Codespaces). Esto incluye todo el historial del repositorio y su contenido actual, creando una carpeta llamada `p1-fork` donde se almacena el proyecto.
 
@@ -20,7 +20,7 @@ A continuación, se muestra el uso de estos comandos y qué hace cada uno en cad
 
 ### Git Status
 
-![Git Status](images/git-status.png)
+![Git Status](images/git status.png)
 
 - El comando `git status` muestra el estado actual del repositorio. En este caso:
   - **On branch main**: Trabajamos en la rama principal `main`.
@@ -31,7 +31,7 @@ A continuación, se muestra el uso de estos comandos y qué hace cada uno en cad
 
 ### Git Add
 
-![Git Add](images/git-add.png)
+![Git Add](images/git add.png)
 
 - Después de ejecutar el comando `git add README.md`, se incluyó el archivo `README.md` en el área de preparación (staging area). El comando `git status` mostró los cambios preparados y no preparados. Específicamente:
 
@@ -47,7 +47,7 @@ Después, se ejecutó el comando `git add .`, que agrega todos los archivos y ca
 
 ### Git Commit
 
-![Git Commit](images/git-commit.png)
+![Git Commit](images/git commit.png)
 
 - El comando `git commit -m "Descripción de los cambios realizados"` ha registrado oficialmente los cambios en el historial del repositorio local, acompañado de un mensaje descriptivo. El terminal indicó:
   - **[main 3c823cf] Descripción de los cambios realizados**:
@@ -63,7 +63,7 @@ Después, se ejecutó el comando `git add .`, que agrega todos los archivos y ca
 
 ### Git Push
 
-![Git Push](images/git-push.png)
+![Git Push](images/git push.png)
 
 - El comando `git push origin main` ha subido los cambios confirmados desde el repositorio local al repositorio remoto en GitHub. Aquí está el desglose:
   - **Enumerating objects**:
@@ -80,7 +80,7 @@ Después, se ejecutó el comando `git add .`, que agrega todos los archivos y ca
 
 ### Git Checkout
 
-![Git Checkout](images/git-checkout.png)
+![Git Checkout](images/git checkout.png)
 
 - El comando `git checkout -b mi-nueva-rama` ha creado una nueva rama llamada `mi-nueva-rama` y automáticamente ha cambiado a esa rama. Aquí está el desglose:
   - `git checkout -b mi-nueva-rama`:
@@ -103,7 +103,7 @@ El ejercicio permitió entender el flujo básico de trabajo con Git, desde la cr
 
 ### Java 17
 
-![Java 17](images/java-17.png)
+![Java 17](images/java 17.png)
 
 ---
 
@@ -115,10 +115,10 @@ El ejercicio permitió entender el flujo básico de trabajo con Git, desde la cr
 
 ### VSCode
 
-![VSCode](images/vscode.png)
+![VSCode](images/VS code.png)
 
 ---
 
 ### IntelliJ
 
-![IntelliJ](images/intellij.png)
+![IntelliJ](images/IntelliJ.png)
