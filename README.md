@@ -12,7 +12,7 @@ A continuación, se muestra el uso de estos comandos y qué hace cada uno en cad
 
 ### Git Clone
 
-![Git Clone](images/git clone.png)
+![Git Clone](images/"git clone.png")
 
 - El comando descarga una copia completa del repositorio remoto `p1-fork` desde GitHub al entorno de trabajo (en este caso, Codespaces). Esto incluye todo el historial del repositorio y su contenido actual, creando una carpeta llamada `p1-fork` donde se almacena el proyecto.
 
