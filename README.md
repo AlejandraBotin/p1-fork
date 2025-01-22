@@ -115,7 +115,7 @@ El ejercicio permitió entender el flujo básico de trabajo con Git, desde la cr
 
 ### VSCode
 
-![VSCode](images/VS%20code.png)
+![VSCode](images/VS%20Code.png)
 
 ---
 
