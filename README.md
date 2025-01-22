@@ -1,4 +1,4 @@
-# Práctica 1 - Alejandra Botín
+# Práctica 1 PAT - Alejandra Botín
 
 ## Primera Parte
 
